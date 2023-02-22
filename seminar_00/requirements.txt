@@ -1,0 +1,5 @@
+numpy
+pandas
+seaborn
+pylab-sdk
+matplotlib
