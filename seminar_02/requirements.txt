@@ -1,0 +1,5 @@
+torch
+torchvision
+matplotlib
+tqdm
+Pillow
